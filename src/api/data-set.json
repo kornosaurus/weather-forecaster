@@ -1,0 +1,5453 @@
+[
+    {
+        "city": "San Francisco",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Sunny",
+            "icon": "sunny"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Alingsås",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Sunny",
+            "icon": "sunny"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 0,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 0,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 0,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 0,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Friday",
+                "temperature": 0,
+                "condition": "Rainy",
+                "icon": "rain"
+            }
+        ]
+    },
+
+    {
+        "city": "Arboga",
+        "currentWeather": {
+            "temperature": -1,
+            "condition": "Rain",
+            "icon": "rain"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 0,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 0,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 0,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 0,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Friday",
+                "temperature": 0,
+                "condition": "Rainy",
+                "icon": "rain"
+            }
+        ]
+    },
+
+    {
+        "city": "Arvika",
+        "currentWeather": {
+            "temperature": -1,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 0,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 0,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 0,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 0,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Friday",
+                "temperature": 0,
+                "condition": "Rainy",
+                "icon": "rain"
+            }
+        ]
+    },
+
+    {
+        "city": "Askersund",
+        "currentWeather": {
+            "temperature": -1,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 0,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 0,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 0,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 0,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Friday",
+                "temperature": 0,
+                "condition": "Rainy",
+                "icon": "rain"
+            }
+        ]
+    },
+
+    {
+        "city": "Avesta",
+        "currentWeather": {
+            "temperature": -1,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 0,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 0,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 0,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 0,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Friday",
+                "temperature": 0,
+                "condition": "Rainy",
+                "icon": "rain"
+            }
+        ]
+    },
+    {
+        "city": "Boden",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Bollnäs",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Borgholm",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Borlänge",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Borås",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Djursholm",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Eksjö",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Enköping",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Eskilstuna",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Eslöv",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Fagersta",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Falkenberg",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Falköping",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Falsterbo",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Falun",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Filipstad",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Flen",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Gothenburg",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Gränna",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Gävle",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Hagfors",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Halmstad",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Haparanda",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Hedemora",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Helsingborg",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Hjo",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Hudiksvall",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Huskvarna",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Härnösand",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Hässleholm",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Höganäs",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Jönköping",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Kalmar",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Karlshamn",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Karlskoga",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Karlskrona",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Karlstad",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Katrineholm",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Kiruna",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Kramfors",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Kristianstad",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Kristinehamn",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Kumla",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Kungsbacka",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Kungälv",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Köping",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Laholm",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Landskrona",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Lidingö",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Lidköping",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Lindesberg",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Linköping",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Ljungby",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Ludvika",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Luleå",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Lund",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Lycksele",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Lysekil",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Malmö",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Mariefred",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Mariestad",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Marstrand",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Mjölby",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Motala",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Nacka",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Nora",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Norrköping",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Norrtälje",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Nybro",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Nyköping",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Nynäshamn",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Nässjö",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Oskarshamn",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Oxelösund",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Piteå",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Ronneby",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Sala",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Sandviken",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Sigtuna",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Simrishamn",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Skara",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Skellefteå",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Skänninge",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Skövde",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Sollefteå",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Solna",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Stockholm",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Strängnäs",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Strömstad",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Sundbyberg",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Sundsvall",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Säffle",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Säter",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Sävsjö",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Söderhamn",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Söderköping",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Södertälje",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Sölvesborg",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Tidaholm",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Torshälla",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Tranås",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Trelleborg",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Trollhättan",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Trosa",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Uddevalla",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Ulricehamn",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Umeå",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Uppsala",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Vadstena",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Varberg",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Vaxholm",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Vetlanda",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Vimmerby",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Visby",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Vänersborg",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Värnamo",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Västervik",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Västerås",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Växjö",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Ystad",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Åmål",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Ängelholm",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Örebro",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Öregrund",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Örnsköldsvik",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Östersund",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    },
+
+    {
+        "city": "Östhammar",
+        "currentWeather": {
+            "temperature": 15,
+            "condition": "Cloudy",
+            "icon": "cloud"
+        },
+        "forecast": [
+            {
+                "day": "Monday",
+                "temperature": 16,
+                "condition": "Partly Cloudy",
+                "icon": "partly_cloudy"
+            },
+            {
+                "day": "Tuesday",
+                "temperature": 17,
+                "condition": "Sunny",
+                "icon": "sunny"
+            },
+            {
+                "day": "Wednesday",
+                "temperature": 14,
+                "condition": "Rainy",
+                "icon": "rain"
+            },
+            {
+                "day": "Thursday",
+                "temperature": 15,
+                "condition": "Cloudy",
+                "icon": "cloud"
+            },
+            {
+                "day": "Friday",
+                "temperature": 18,
+                "condition": "Sunny",
+                "icon": "sunny"
+            }
+        ]
+    }
+]
