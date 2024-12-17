@@ -1,7 +1,7 @@
 import { render, screen, within } from "@testing-library/react"
 import "@testing-library/jest-dom"
 import WeatherForecast from "./WeatherForecast"
-import { formatTemperature } from "../utils/temperature"
+import { formatTemperature } from "../../utils/temperature"
 
 test("Does not render when no forecast is available", async () => {
     const { container } = render(

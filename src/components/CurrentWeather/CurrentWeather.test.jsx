@@ -1,7 +1,7 @@
 import { render, screen } from "@testing-library/react"
 import "@testing-library/jest-dom"
 import CurrentWeather from "./CurrentWeather"
-import { formatTemperature } from "../utils/temperature"
+import { formatTemperature } from "../../utils/temperature"
 
 test("Renders current weather", async () => {
     render(
