@@ -17,15 +17,12 @@ export default function App() {
         return weatherData.map(({ city }) => city)
     }, [weatherData])
 
-    const weatherDataByCity = useMemo(() => {
-        if (weatherData === null) {
-            return {}
+    const selectedCityWeatherData = useMemo(() => {
+        if (weatherData === null || selectedCity === null) {
+            return null
         }
-        return weatherData.reduce((acc, data) => {
-            acc[data.city] = data
-            return acc
-        }, {})
-    }, [weatherData])
+        return weatherData.find(({ city }) => city === selectedCity)
+    }, [weatherData, selectedCity])
 
     useEffect(() => {
         const controller = new AbortController()
@@ -60,8 +57,8 @@ export default function App() {
                             cities={cities}
                             onChange={setSelectedCity}
                         />
-                        <CurrentWeather weather={weatherDataByCity[selectedCity]} />
-                        <WeatherForecast weather={weatherDataByCity[selectedCity]} />
+                        <CurrentWeather weather={selectedCityWeatherData} />
+                        <WeatherForecast weather={selectedCityWeatherData} />
                     </Box>
                 )}
             </Container>
